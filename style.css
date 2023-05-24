@@ -1,0 +1,158 @@
+
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    padding: 0  40px;
+    
+}
+
+.nav-bar ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-bar li {
+    margin: 10px;
+    color: #c75fed;
+}
+
+.logo-container {
+    display:  flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo-container img {
+    width: 130px;
+    height: 130px;
+}
+
+.bottom-container {
+    padding: 20px 250px;
+}
+
+.para {
+    margin-right: 15px;
+    font-size: 15px;
+    color: rgb(104, 101, 101);
+    font-weight: bold;
+}
+
+.refferal {
+    color: rgba(43, 40, 40);
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 2px;
+}
+
+.code {
+    display: inline-block;
+    border: 1px solid #fa2f8b;
+    padding: 15px 5px;
+    font-weight: bold;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner {
+    margin: 25px;
+}
+
+.button {
+    text-align: center;
+    padding: 5px 8px;
+}
+
+.button button {
+    background-color: #590e47;
+    padding: 5px 8px;
+    color: white;
+    border-radius: 4px;
+}
+
+.main-cont {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cont1 {
+    display: flex;
+}
+
+.label {
+    font-size: 12px;
+    color: #590e47;
+}
+
+.num {
+    font-size: 15px;
+    font-weight: bold;
+    color: #590e47;
+
+}
+
+.works-cont {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 300px;
+    margin: 10px;
+}
+
+.img-cont {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #dcdedc;
+    
+}
+
+.text {
+    margin-left: 15px;
+}
+
+.img-size {
+    height: 30px;
+    width: 30px;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+.tex-line {
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.bottom-con {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.condition {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.condition a {
+    text-decoration: none;
+    color: #590e47;
+    margin-top: 5px;
+}
+
+.profile {
+    height: 14px;
+    width: 14px;
+}
